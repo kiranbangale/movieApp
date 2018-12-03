@@ -1,2 +1,2 @@
 # movieApp
-Kinda like Book-My-Show app
+Kinda like udemy app
