@@ -1,2 +1,2 @@
-# movieApp
+# udemyApp
 Kinda like udemy app
