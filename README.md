@@ -26,7 +26,7 @@ I want an application which will be like udemy. There are courses each course ha
             
 
 
-#DB
+# DB
     - use udemy-app
     - show collections
     - db.createCollection('courses') // MongoDb, MEAN, NodeJs, ExpressJs, AngularJs, Javascript, HTML5, CSS3, SASS, Bootstrap4, GraphQl, Pythan, Go
