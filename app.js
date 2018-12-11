@@ -6,9 +6,13 @@ var mongoose = require("mongoose");
 Course = require("./models/course");
 
 mongoose.connect(
-  "mongodb://kiran:kiran123@ds021915.mlab.com:21915/udemy-app",
+  "mongodb://localhost/udemy-app",
   { useNewUrlParser: true }
 );
+// mongoose.connect(
+//   "mongodb://kiran:kiran123@ds021915.mlab.com:21915/udemy-app",
+//   { useNewUrlParser: true }
+// );
 
 var db = mongoose.connection;
 db.on("error", console.error.bind(console, "MongoDB connection error:"));
