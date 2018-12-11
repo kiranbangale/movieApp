@@ -1,0 +1,27 @@
+{
+  "name": "udemy-app",
+  "version": "1.0.0",
+  "description": "Kinda like udemy app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranbangale/udemy-app.git"
+  },
+  "author": "Kiran Bangale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranbangale/udemy-app/issues"
+  },
+  "homepage": "https://github.com/kiranbangale/udemy-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "5.3.14"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
